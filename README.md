@@ -13,11 +13,13 @@
 
 ---
 
-## 📸 معاينة واجهة المنصة العامة (Public Marketplace Preview)
+### 📸 معاينة واجهة المنصة (Marketplace Preview)
 
-![Mediadiva Marketplace UI](docs/assets/marketplace-preview.jpg)
+[![Live Preview](https://img.shields.io/badge/Preview-Google_Drive-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1NvhwTsGzxtASbve4WzYkF0DT0s3IiIY4/view?usp=drivesdk)
 
-> **ملاحظة معمارية:** تعرض الواجهة المشاريع النشطة وشارات الثقة الإقليمية قبل توجيه المستخدم إلى لوحة التحكم المخصصة بحسب دوره (Client / Freelancer).
+يمكنك الاطلاع على لقطة الشاشة الكاملة عالية الدقة عبر Google Drive:  
+🔗 [عرض لقطة شاشة الواجهة العامة للمنصة](https://drive.google.com/file/d/1NvhwTsGzxtASbve4WzYkF0DT0s3IiIY4/view?usp=drivesdk)
+
 
 
 
