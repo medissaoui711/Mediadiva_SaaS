@@ -13,6 +13,14 @@
 
 ---
 
+## 📸 معاينة واجهة المنصة العامة (Public Marketplace Preview)
+
+![Mediadiva Marketplace UI](docs/assets/marketplace-preview.jpg)
+
+> **ملاحظة معمارية:** تعرض الواجهة المشاريع النشطة وشارات الثقة الإقليمية قبل توجيه المستخدم إلى لوحة التحكم المخصصة بحسب دوره (Client / Freelancer).
+
+
+
 ## 🛠️ التكنولوجيا المستخدمة (Tech Stack)
 
 | الطبقة | التقنيات المستخدمة |
