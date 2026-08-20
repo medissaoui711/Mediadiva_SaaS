@@ -1,3 +1,6 @@
+> 🔒 **Commercial / Closed-Source Notice:**  
+> هذا المستودع مخصص لتوثيق المعمارية العامة ومصمم لتوضيح الهيكلية التقنية لمنصة **Mediadiva**. الشفرة المصدرية (Source Code) والأنظمة الخلفية محفوظة في مستودعات خاصة (Private Repositories).
+> 
 # 🚀 Mediadiva - Next-Gen North African Freelance Engine
 > **Enterprise SaaS Platform Architecture & Multi-Role Workspace Solution**
 
