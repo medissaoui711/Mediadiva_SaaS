@@ -1,0 +1,12 @@
+# Ignore source code and dev folders
+src/
+public/
+node_modules/
+dist/
+build/
+.env*
+*.ts
+*.tsx
+*.jsx
+*.js
+!docs/
